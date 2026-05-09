@@ -90,7 +90,13 @@ $\ddagger$: UniTopo is built upon the well-recognized baseline TopoNet, while Un
 If you find this repo useful for your research, please consider citing it using the following BibTeX entry.
 
 ```
-
+@ARTICLE{UniTopo,
+  author={Li, Han and Gao, Yulu and Liu, Si and Wang, Yuhang and Liu, Bo and Mu, Beipeng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Unified Modeling of Lane and Lane Topology for Driving Scene Reasoning}, 
+  year={2026},
+  doi={10.1109/TCSVT.2026.3690152}
+}
 ```
 
 ## Acknowledgement
