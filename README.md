@@ -1,5 +1,5 @@
 # UniTopo
-This repo is the official PyTorch implementation for paper: Unified Modeling of Lane and Lane Topology for Driving Scene Reasoning.
+This repo is the official PyTorch implementation for paper: [Unified Modeling of Lane and Lane Topology for Driving Scene Reasoning](https://ieeexplore.ieee.org/document/11506407).
 
 ![pipeline](figs/pipeline.png)
 
